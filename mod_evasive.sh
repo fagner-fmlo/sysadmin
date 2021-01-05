@@ -22,5 +22,4 @@ echo "Done"
     yum install $i -y
   fi
 done
-updatedb
 
